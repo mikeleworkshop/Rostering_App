@@ -1,0 +1,15 @@
+com\rosteroptimizer\common\enums\Role.class
+com\rosteroptimizer\common\enums\RosterStatus.class
+com\rosteroptimizer\common\enums\DayOfWeek.class
+com\rosteroptimizer\common\exception\ApiErrorResponse.class
+com\rosteroptimizer\common\enums\AssignmentSource.class
+com\rosteroptimizer\common\constant\Headers.class
+com\rosteroptimizer\common\enums\AvailabilityStatus.class
+com\rosteroptimizer\common\dto\FixedEmployeeDTO.class
+com\rosteroptimizer\common\constant\InternalPaths.class
+com\rosteroptimizer\common\exception\Violation.class
+com\rosteroptimizer\common\dto\AvailabilityCellDTO.class
+com\rosteroptimizer\common\enums\Status.class
+com\rosteroptimizer\common\dto\ShiftSummaryDTO.class
+com\rosteroptimizer\common\dto\StaffData.class
+com\rosteroptimizer\common\dto\EmployeeSummaryDTO.class

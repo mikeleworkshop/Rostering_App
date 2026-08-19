@@ -1,0 +1,15 @@
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\constant\Headers.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\constant\InternalPaths.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\dto\AvailabilityCellDTO.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\dto\EmployeeSummaryDTO.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\dto\FixedEmployeeDTO.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\dto\ShiftSummaryDTO.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\dto\StaffData.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\AssignmentSource.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\AvailabilityStatus.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\DayOfWeek.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\Role.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\RosterStatus.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\enums\Status.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\exception\ApiErrorResponse.java
+C:\Users\User\roster-optimizer\ro-common\src\main\java\com\rosteroptimizer\common\exception\Violation.java
