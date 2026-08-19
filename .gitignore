@@ -1,0 +1,37 @@
+# ── Maven ──
+target/
+*.jar
+*.war
+*.ear
+!.mvn/wrapper/maven-wrapper.jar
+
+# ── Java ──
+*.class
+*.log
+
+# ── Eclipse ──
+.settings/
+.classpath
+.project
+.factorypath
+bin/
+
+# ── IntelliJ (in case a teammate uses it) ──
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ── VS Code (just in case) ──
+.vscode/
+
+# ── OS junk ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment / secrets ──
+*.env
+.env.local
+application-local.yml
+application-local.properties
