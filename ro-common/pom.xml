@@ -7,12 +7,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.rosteroptimizer</groupId>
+        <groupId>com.smartrostering</groupId>
         <artifactId>roster-optimizer</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     
-    <artifactId>ro-common</artifactId>
+    <artifactId>smart-rostering</artifactId>
     <packaging>jar</packaging>
     
         <dependencies>
