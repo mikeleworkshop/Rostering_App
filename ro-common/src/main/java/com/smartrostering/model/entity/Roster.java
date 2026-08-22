@@ -2,6 +2,8 @@ package com.smartrostering.model.entity;
 
 import java.time.LocalDate;
 
+import com.smartrostering.model.enums.RosterStatus;
+
 public class Roster {
 	private String businessRegNumber; // [Composite Key]
     private LocalDate weekStartDate;  // [Composite Key]

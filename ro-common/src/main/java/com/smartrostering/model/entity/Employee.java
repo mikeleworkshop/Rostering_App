@@ -3,7 +3,7 @@ package com.smartrostering.model.entity;
 import java.math.BigDecimal;
 import java.util.Set;
 
-public class Employee extends User{
+public class Employee extends UserAccount{
 	private BigDecimal hourlyRate;
 	private int maxWeeklyHours;
 	private Set<String> skillNames;
