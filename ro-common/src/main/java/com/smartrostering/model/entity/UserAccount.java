@@ -1,6 +1,8 @@
 package com.smartrostering.model.entity;
 
-public class User {
+import com.smartrostering.model.enums.UserRole;
+
+public class UserAccount {
 	private String email;
 	private String fullName;
 	private String password;
