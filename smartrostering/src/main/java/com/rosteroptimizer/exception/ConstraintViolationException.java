@@ -1,0 +1,13 @@
+package com.rosteroptimizer.exception;
+
+import java.util.List;
+
+import com.rosteroptimizer.model.dto.ConstraintViolationDto;
+
+public class ConstraintViolationException extends RuntimeException {
+    private List<ConstraintViolationDto> violations;
+    
+    public ConstraintViolationException() {
+		// TODO Auto-generated constructor stub
+	}
+}
